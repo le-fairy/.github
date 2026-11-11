@@ -7,6 +7,7 @@
   <a href="https://smartstore.naver.com/le-fairy"><img src="https://img.shields.io/badge/Naver-SmartStore-03C75A?style=flat-square&logo=naver&logoColor=white" alt="Naver SmartStore" /></a>
   <a href="https://www.instagram.com/le.fairy_beauty/"><img src="https://img.shields.io/badge/Instagram-le.fairy__beauty-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="http://pf.kakao.com/_GjxkVxj"><img src="https://img.shields.io/badge/Kakao-Channel-FFCD00?style=flat-square&logo=kakaotalk&logoColor=000" alt="Kakao Channel" /></a>
+  <a href="https://github.com/le-fairy"><img src="https://komarev.com/ghpvc/?username=le-fairy&label=Visitors&color=1d1c1a&style=flat-square" alt="Visitors" /></a>
 </p>
 
 <br />
