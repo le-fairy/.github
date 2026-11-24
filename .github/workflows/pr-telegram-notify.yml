@@ -1,0 +1,15 @@
+# PR 이 열리거나 다시 열리면 텔레그램으로 알린다.
+# 내용은 같은 저장소의 재사용 워크플로(pr-telegram.yml)에 있다. 이 PR 의 판을 바로 시험하도록 경로로 부른다.
+# 비밀값 TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID 를 이 저장소에 넣어야 보낸다(없으면 건너뜀).
+name: PR 텔레그램 알림
+
+on:
+  pull_request:
+    types: [opened, reopened]
+
+permissions: {}
+
+jobs:
+  notify:
+    uses: ./.github/workflows/pr-telegram.yml
+    secrets: inherit
